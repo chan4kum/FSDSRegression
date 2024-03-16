@@ -4,6 +4,5 @@ seaborn
 Flask
 scikit-learn
 matplotlib
-
 -e .
 
